@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Booking" allow-return-values="true" verbose="1" preserve-order="true">
+    <test name="Booking Flight">
+        <classes>
+            <class name="booking.registartion" />
+        </classes>
+    </test>
+</suite>
